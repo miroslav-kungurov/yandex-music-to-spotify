@@ -1,4 +1,4 @@
-![yandex-to-spotify](logo.png)
+![yandex-to-spotify](https://github.com/tttdddnet/yandex-music-to-spotify/blob/main/logo/logo.png)
 
 Скрипт переносит всю фонотеку из Яндекс.Музыки в Спотифай. 
 
