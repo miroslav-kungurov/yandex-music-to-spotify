@@ -2,6 +2,8 @@
 
 Скрипт переносит всю фонотеку из Яндекс.Музыки в Спотифай. 
 
+Подробнее в статье «[Переносим треки из Яндекс.Музыки в Spotify с помощью Python](https://proglib.io/p/perenosim-treki-iz-yandeks-muzyki-v-spotify-s-pomoshchyu-python-2021-08-16)»
+
 Возможности:
 
 - перенос альбомов;
