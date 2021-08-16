@@ -144,5 +144,5 @@ def main(yandex_username):
 
 
 if __name__ == "__main__":
-    yandex_username = 'tttddd111'
+    yandex_username = 'имя пользователя Яндекс.Музыки'
     main(yandex_username)
