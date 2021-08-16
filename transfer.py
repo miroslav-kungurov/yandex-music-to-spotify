@@ -135,11 +135,11 @@ def transfer_albums(yandex_username, albums_for_spotify):
 
 def main(yandex_username):
     # перенос плейлиста «Мне нравится» и личных плейлистов
-    transfer_playlists(yandex_username, get_my_playlists(yandex_username))
+    #transfer_playlists(yandex_username, get_my_playlists(yandex_username))
     # перенос лайкнутых плейлистов
     #transfer_playlists(yandex_username, get_liked_playlists(yandex_username))
     # перенос альбомов
-    #transfer_albums(yandex_username, get_albums(yandex_username))
+    transfer_albums(yandex_username, get_albums(yandex_username))
 
 
 
